@@ -15,7 +15,7 @@ kernelspec:
 
 # Written Report – 6.419x Module 2
 
-<div class="author"><b>Name:</b> username</div>
+<div class="author"><b>Name:</b> jeunjetta</div>
 
 ```{code-cell}
 :tags: ["remove-input"]
